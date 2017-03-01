@@ -1,0 +1,76 @@
+.customer-refno{
+    color: red;
+
+}
+.full-width {
+    width: 100%;
+}
+
+#vechicleAddModal{ 
+    z-index:5000;
+}
+
+#vechicleAddModal .modal-dialog  
+{width:70%;}
+
+#vechicleEditModal .modal-dialog  
+{width:70%;}
+
+#inputValidationModal{ z-index:10000; }
+
+.ui-autocomplete { z-index:2147483647; }
+
+.ui-autocomplete-loading { z-index:2147483647; }
+
+.margin-top-13 {
+    margin-top: 20px;
+}
+
+.margin-top-10 {
+    margin-top: 15px;
+}
+.margin-top-15 {
+    margin-top: 28.5px;
+}
+.margin-top-17 {
+    margin-top: 30px;
+}
+
+.margin-top-20 {
+    margin-top: 35px;
+}
+.margin-top-25 {
+    margin-top: 39px;
+}
+
+#total-value {
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+#sum-value {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#total-title {
+    text-align: center;
+    font-size: 20px
+}
+
+#sum-title {
+    text-align: center;
+    font-size: 16px
+}
+.table-bordered > thead > tr > th,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > tbody > tr > td,
+.table-bordered > tfoot > tr > td {
+
+    border: 1px solid #6D24CD;
+    border-top: 1px solid #6D24CD;
+
+}

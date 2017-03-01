@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 16, 2015, 11:07:37 AM
+    Author     : malitha
+*/
+.heddersize{
+    
+    height: 90px;
+    
+    
+    
+}
+.center-block {
+  display: block;
+  margin-top: 10px;
+  margin-left: -40px;
+  margin-right: auto;
+}
+.banaersize{
+    width: 140px;
+    height: 108px;
+    
+    
+}
+
+.section-heading{
+	width: 60%;
+	padding-top: 10px;
+	padding-bottom: 30px;
+        
+}
+
